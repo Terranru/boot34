@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"extensions": {
+		"recommendations": []
+	},
+	"settings": {
+		"view-in-browser.customBrowser": "chrome"
+	}
+}
